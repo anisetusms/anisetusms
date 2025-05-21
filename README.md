@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🚀 Software Engineer | Passionate about building impactful and scalable applications
+💻 Proficient in Java, Flutter, Laravel, and MySQL
+📱 Focused on mobile & web development, especially in booking systems and property management apps
+🧠 Currently learning Machine Learning and exploring its applications in real-world problems
+🔐 Enthusiastic about clean architecture, secure authentication, and RESTful APIs
+🌱 Always growing — now diving deeper into ML & AI
+📍 Based in Indonesia | Always open for collaboration & learning
+
+"Code with purpose, build with passion."
 
 
 ## 🌐 Socials:
